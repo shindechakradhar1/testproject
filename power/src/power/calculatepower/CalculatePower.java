@@ -3,6 +3,7 @@ package power.calculatepower;
 public class CalculatePower {
 	int number;
 	int exponant;
+	int abc;
 	
 	public CalculatePower() {	}
 	
